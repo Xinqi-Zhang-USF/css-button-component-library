@@ -1,5 +1,6 @@
 # css-button-component-library
-![button](botton.png)
+![button](button.png)
+
 
 ## note
 
